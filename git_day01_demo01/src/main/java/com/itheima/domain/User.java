@@ -6,5 +6,5 @@ package com.itheima.domain;
  * @Date 2019/9/24 17:55
  */
 public class User {
-
+private Integer id;
 }
